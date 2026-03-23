@@ -44,8 +44,6 @@ Cybersecurity Tools:
 ---
 
 ## 🔗 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=flat&logo=aboutdotme&logoColor=white)](YOUR_PORTFOLIO_LINK)  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firaol-fetene-22624b383?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/dynamis_1) 
